@@ -1,0 +1,37 @@
+.menuNav
+{
+    background-color: yellow;
+     display: inline-flex;
+     height: 80px;
+     width: 100%;
+}
+
+.carroConNumero
+{
+    display: flex;
+    border: 1px solid;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 15px;
+    background-color: antiquewhite;
+}
+
+.carro
+{
+    display: flex;
+    width: 75%;
+    position: relative;
+    justify-content: flex-end;
+}
+
+
+/*Numero 5 hardcodeado en el carrito */
+h5
+{
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 5px;
+    background-color: orange;
+}
+
+
